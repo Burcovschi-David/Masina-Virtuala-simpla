@@ -1,4 +1,4 @@
-Masina-Virtuala-simpla
+Simple Virtual Machine
 ======================
 
-Asta e o masina virtuala simpla, executa cod obiect
+This is a simple virtual machine , who executes simple object code.
